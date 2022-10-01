@@ -1,0 +1,72 @@
+body{
+    background-color: whitesmoke;
+    font-family: "Montserrat", sans-serif;
+    color:rgba(21,21,21,1);
+    font-size: 16px;
+}
+
+.product-list{
+    margin: 50px;
+    text-align: center;
+
+
+}
+
+.product-description{
+    font-size: 15px;
+}
+
+.product-price{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card a button{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.column {
+    float: left;
+    width: 31%;
+    padding: 0 10px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    margin: 15px;
+}
+.navBar{
+
+    padding: 5px;
+    overflow: hidden;
+
+    background-color: rgba(1,138,139,0.4);
+
+}
+.navBar a{
+    font-weight:bold;
+    float: left;
+    font-size: 16px;
+    color: white;
+
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.w33{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+}
+
